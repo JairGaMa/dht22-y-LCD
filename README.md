@@ -40,8 +40,9 @@ El código realiza las siguientes funciones:
 - Si el sensor está funcionando correctamente, se mostrarán los valores de temperatura y humedad en la pantalla LCD.
 - Si hay un error en la lectura, la pantalla mostrará "Error sensor" por 2 segundos y luego intentará nuevamente.
 
-## Capturas de Pantalla
+## Diagrama de conexiones
 ![Diagrama de conexión](diagrama.jpg)
 
-
-
+## Funcionamiento
+- Link del proyecto en wokwi
+   https://wokwi.com/projects/420636470786208769
